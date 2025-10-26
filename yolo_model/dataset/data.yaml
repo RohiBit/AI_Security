@@ -1,0 +1,6 @@
+train: F:/projects/epics/final/yolo_model/dataset/images/train
+val: F:/projects/epics/final/yolo_model/dataset/images/valid
+test: F:/projects/epics/final/yolo_model/dataset/images/test  # Optional
+
+nc: 8
+names: ["walking", "running", "standing", "falling", "snatching", "fighting", "siting", "driving"]

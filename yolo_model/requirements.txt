@@ -1,0 +1,6 @@
+ultralytics
+opencv-python
+face_recognition
+numpy
+twilio
+supabase

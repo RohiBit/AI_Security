@@ -1,0 +1,43 @@
+# Binaries and models
+*.pt
+*.mp4
+*.jpg
+*.png
+*.avi
+*.mov
+
+# Output directories
+output/
+runs/
+runs_4/
+detected_faces/
+known_faces/
+extracted_frames/
+snatching_detections/
+comparisons/
+
+# Logs and temp files
+*.log
+detection_log.txt
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+venv/
+env/
+.venv/
+.env
+
+# Dataset caches (regenerate as needed)
+*.cache
+labels/train.cache
+labels/valid.cache
