@@ -31,7 +31,7 @@ The projects are interconnected: YOLO models can be used for initial detection i
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/RohiBit/AI_Security.git
 cd ai-cam  # Replace with your repo name
 ```
 
@@ -116,11 +116,6 @@ ai-cam/
 │       └── test_yolo.py
 └── input/  # Sample input videos (optional)
 ```
-
-## Contributing
-- Fork the repo and create a feature branch.
-- Test changes thoroughly.
-- Submit a pull request.
 
 ## License
 [Add your license here, e.g., MIT]
