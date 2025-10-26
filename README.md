@@ -116,9 +116,3 @@ ai-cam/
 │       └── test_yolo.py
 └── input/  # Sample input videos (optional)
 ```
-
-## License
-[Add your license here, e.g., MIT]
-
-## Contact
-[Add your contact info or issues link]
